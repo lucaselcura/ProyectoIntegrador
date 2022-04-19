@@ -27,9 +27,12 @@
               "src/assets"
             ],
             "styles": [
+              "proyecto_lge/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+             "proyecto_lge/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
