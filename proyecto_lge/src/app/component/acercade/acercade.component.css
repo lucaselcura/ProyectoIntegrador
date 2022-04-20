@@ -7,3 +7,16 @@ div{
     padding: 20px;
     text-align: center;
 }
+
+#fotoperfil {
+border-radius: 100%;
+box-shadow: 4px 4px 4px grey;
+}
+
+#nombre{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 15%;
+    margin-left: 5px;
+    font-size: 20px;
+}
