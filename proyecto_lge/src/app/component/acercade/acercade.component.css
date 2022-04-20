@@ -1,3 +1,9 @@
 div{
-    margin: 50 px
+    margin: 50 px;
+    background-color: #a1b5cb;
+}
+
+.row {
+    padding: 20px;
+    text-align: center;
 }
